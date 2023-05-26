@@ -1,6 +1,8 @@
 # PROJECT PHASE 1
 
-## Overview
+## Overview 
+
+!(/home/lee/Desktop/project_Phase 1/PROJECT-PHASE-1-/wordcloud.png)
 
 Microsoft Company is looking to venture into new markets and utilize new opportunities. Having seen how other organizations of its calibre are creating their own original content, the stakeholders gained interest in investing in the same. Microsoft however, have no prior experience with movie studios and therefore sought a consult for the same.
 
@@ -31,4 +33,4 @@ Since Microsoft have no experience in creating movies, this exploratory data ana
 * The comapany should work with or build the structure to emulate Wein. and Neon studio as it seems to have done well with the movies produced.
 
 
-End of Phase 1 Project
+
